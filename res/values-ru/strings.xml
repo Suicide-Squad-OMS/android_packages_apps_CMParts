@@ -84,6 +84,8 @@
   <string name="battery_light_low_color_title">Батарея разряжена</string>
   <string name="battery_light_medium_color_title">Заряжается</string>
   <string name="battery_light_full_color_title">Полностью заряжена</string>
+  <string name="battery_light_full_color_title">Заряжено (90%)</string>
+  <string name="battery_light_really_full_color_title">Заряжено (100%)</string>
   <!-- Lights settings screen, notification light settings -->
   <string name="notification_light_title">Индикация уведомлений</string>
   <string name="notification_light_general_title">Общие</string>
@@ -146,11 +148,11 @@
   <string name="color_blue_title">Синий</string>
   <!-- LiveDisplay : Picture Adjustment -->
   <string name="picture_adjustment_title">Регулировка изображения</string>
-  <string name="picture_adjustment_summary">Отрегулируйте оттенок, насыщенность, глубину и контрастность</string>
+  <string name="picture_adjustment_summary">Отрегулируйте оттенок, насыщенность, интенсивность и контрастность</string>
   <string name="adj_hue_title">Оттенок</string>
   <string name="adj_saturation_title">Насыщенность</string>
-  <string name="adj_intensity_title">Насыщенность</string>
-  <string name="adj_contrast_title">Контраст</string>
+  <string name="adj_intensity_title">Интенсивность</string>
+  <string name="adj_contrast_title">Контрастность</string>
   <!-- Button settings -->
   <string name="button_pref_title">Кнопки</string>
   <string name="hardware_keys_power_key_title">Кнопка питания</string>
